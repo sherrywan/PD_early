@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# results
+res*/
+
+# data
+data/PD_dataset.zip
+data/PD_dataset/
